@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="circles">
+        <item>@drawable/large_circle</item>
+        <item>@drawable/medium_circle</item>
+        <item>@drawable/small_circle</item>
+    </integer-array>
+</resources>
+
+<!--
+    <string-array name="brush_sizes">
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+-->
